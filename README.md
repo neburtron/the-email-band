@@ -84,7 +84,7 @@ These steps assume you're using Github Desktop.
 
 5. **Commit Changes:**
    - Commit your changes in the bottom left
-![Don't know what to put here](ForReadme/Screenshot2.png)
+![Don't know what to put here](ForReadme/Screenshot3.png)
 
 6. **Push Changes:**
    - Push your changes to your forked repository when it pops up, there's enough screenshots here, you'll see it.
