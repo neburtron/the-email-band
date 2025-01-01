@@ -88,10 +88,10 @@ These steps assume you're using Github Desktop.
 
 
 4. **Commit Changes:**
-   - Commit your changes
+   - Commit your changes in the bottom left
 
 5. **Push Changes:**
-   - Push your changes to your forked repository:
+   - Push your changes to your forked repository, it should be blue and highlighted.
 
 6. **Create a Pull Request:**
    - Open a pull request from your forked repository's branch to the main branch of this repository.
