@@ -14,39 +14,51 @@ Things are currently being run through [this temporary subreddit](https://www.re
 ### Option 1: GitHub Desktop (With GUI, easier for non-programmers)
 
 1. **Download GitHub Desktop:**
-   - Go to the [GitHub Desktop website](https://desktop.github.com/) and download the application for your operating system.
+   - Go to the [GitHub Desktop website](https://desktop.github.com/), and click the download button.
 
 2. **Install GitHub Desktop:**
-   - Follow the installation instructions for your operating system.
+   - Follow the installation instructions.
 
 3. **Clone the Repository:**
    - Open GitHub Desktop.
-   - Click on "File" in the menu and select "Clone repository."
-   - In the "URL" tab, enter the repository URL: `https://github.com/neburtron/Unofficial-unnamed-band-folder`
-   - Choose a local path where you want to save the repository and click "Clone."
+   - Click **File > Clone repository**.  
+   - Under the "URL" tab, paste:  
+     `https://github.com/neburtron/Unofficial-unnamed-band-folder`  
+   - Choose where to save the project and click **Clone**.
 
-4. **Open the Project:**
-   - Once the repository is cloned, you can open the project files in your preferred application.
+4. **Explore the Project:**  
+   - You did it, you've got all the files, from here you're good to go.
+   - It should tell you when the public files update, and give you the option to update your local files.
 
-### Option 2: Command Line (For programmers)
+### Option 2: Command Line (For Programmers)
 
-1. **Install Git:**
-   - If you haven't already, install Git on your computer. You can download it from [git-scm.com](https://git-scm.com/).
+1. **Install Git:**  
+   If you don’t have Git installed, download it from [git-scm.com](https://git-scm.com/).
 
-2. **Clone the Repository:**
-   - Open a terminal or command prompt.
-   - Use the following command to clone the repository:
-     ```bash
-     git clone https://github.com/neburtron/Unofficial-unnamed-band-folder
-     ```
+2. **Navigate to where you want the folder to be:**  
 
-3. **Navigate to the Project Directory:**
-   - Use the following command to navigate into the project directory:
-     ```bash
-     cd Unofficial-unnamed-band-folder
-     ```
+   ```bash
+   cd desktop
+   ```
 
-## Project Rules
+3. **Clone the Repository:**  
+   Open a terminal and run:  
+
+   ```bash
+   git clone https://github.com/neburtron/Unofficial-unnamed-band-folder
+   ```
+
+---
+
+## Project Rules  
+
+1. **No Uncleared Samples**  
+   Avoid using samples that aren’t cleared or legally safe. This is a collaborative project. You can use copyrighted audio as a placeholder, but **YOU** are responsible for figuring out a way to clear that sample or getting someone to cover it if you want your work to be released. You should say where you got any samples you used and what type of permission you have to use it.
+
+2. **Share Your WIP Files** *(optional but encouraged)*  
+   Everyone’s work-in-progress files are rough, but this is a band, we should be workign together. Sharing them helps make ideas as good as they can be, helps catch potential issues (like uncleared samples) early, and keeps this project collaborative and open for everyone.
+
+---
 
 1. **No Uncleared Samples:**
    - Ensure that all samples used in the project are cleared and legally permissible to use. Respect copyright laws and avoid any uncleared or pirated samples.
@@ -59,32 +71,27 @@ Things are currently being run through [this temporary subreddit](https://www.re
 
 ## Contribution Guidelines
 
-1. **Fork the Repository:**
-   - Click the "Fork" button at the top right of this repository page to create a copy of this repository under your GitHub account.
+How to add your new material to the project. If you can't figure it out, email me and I can add it for you.
+
+These steps assume you're using Github Desktop.
+
+1. **Make sure you have an up to date and unedited verion of the project folder**
+   - Github tracks changes, so make sure you didn't touch anything you shouldn't have, and make sure that you're not looking at an outdated verison of the folder 
 
 2. **Create a Branch:**
-   - Create a new branch for your feature or bug fix:
+   - Create a new branch by opening this menu and clicking here:
 
-     ```bash
-     git checkout -b your-branch-name
-     ```
 
-3. **Make Changes:**
-   - Make the necessary changes to the project files.
+
+3. **Name it:**
+
+
 
 4. **Commit Changes:**
-   - Commit your changes with a descriptive commit message:
-
-     ```bash
-     git commit -m "Description of your changes"
-     ```
+   - Commit your changes
 
 5. **Push Changes:**
    - Push your changes to your forked repository:
-
-     ```bash
-     git push origin your-branch-name
-     ```
 
 6. **Create a Pull Request:**
    - Open a pull request from your forked repository's branch to the main branch of this repository.
