@@ -53,23 +53,15 @@ Things are currently being run through [this temporary subreddit](https://www.re
 ## Project Rules  
 
 1. **No Uncleared Samples**  
-   Avoid using samples that aren’t cleared or legally safe. This is a collaborative project.
-   You can use copyrighted audio as a placeholder, but **YOU** are responsible for figuring out a way to clear that sample or getting someone to cover it if you want your work to be released. 
+   Avoid using samples that aren’t cleared or legally safe.
+   This is a collaborative project.
+   You can use copyrighted audio as a placeholder, but **YOU** are responsible for figuring out a way to clear that sample or getting someone to cover it if you want your work to be released.
    You should say where you get any samples you used and what type of permission you have to use it.
 
 2. **Share Your WIP Files** *(optional but encouraged)*  
    Everyone’s work-in-progress files are rough, but this is a band, we should be working together. Sharing them helps make ideas as good as they can be, helps catch potential issues (like uncleared samples) early, and keeps this project collaborative and open for everyone.
 
 ---
-
-1. **No Uncleared Samples:**
-   - Ensure that all samples used in the project are cleared and legally permissible to use. Respect copyright laws and avoid any uncleared or pirated samples.
-
-2. **Give Where you got your Samples:**
-   - If you take material from anywhere, give a link to where you got it from if through the internet, or name the source, or whatever information to find them. If it's a local group, you need to get permission and save that with the sample.
-
-3. **Share WIP Files:**
-   - This is a band of the people, we gotta work together! Everyone's work in progress work is bad, but if we work together, we can make something the world has never seen! This isn't a strict requirement. Shit happens, but it's important logistically, and this way we can catch problems like uncleared samples and whatnot early and work around them together.
 
 ## Contribution Guidelines
 
@@ -78,7 +70,7 @@ How to add your new material to the project. If you can't figure it out, email m
 These steps assume you're using Github Desktop.
 
 1. **Make sure you have an up to date and unedited verion of the project folder**
-   - Github tracks changes, so make sure you didn't touch anything you shouldn't have, and make sure that you're not looking at an outdated version of the folder 
+   - Github tracks changes, so make sure you didn't touch anything you shouldn't have, and make sure that you're not looking at an outdated version of the folder.
 
 2. **Create a Branch:**
    - Create a new branch by opening this menu and clicking this new branch.
@@ -98,14 +90,14 @@ These steps assume you're using Github Desktop.
    - Push your changes to your forked repository when it pops up, there's enough screenshots here, you'll see it.
 
 7. **Create a Pull Request:**
-   - Open a pull request from your forked repository's branch to the main branch of this repository.
+   - Open a pull request from your forked repository's branch to the main branch of this repository. If you've gotten this far, you'll be able to figure it out.
 
 Note - It's a good idea to make a folder around stuff you add for organizations sake, even if you're just adding one or a few little audio clips, if you decide to add more later on or sign your name in a txt, that makes things easier.
 
 ## License
 
-IDK, ask Johnny, leaving it blank for now. They were saying something about album revinue going to charity or the people who worked on the various tracks. To me it seems like most stuff is in the air, they were figuring stuff out as they went along, and if this github becomes official, there's a good chance this project leans full on open source free to access with any profits from donations, record sales, streaming services with ads, etc going back into the project directly with marketing or whatever.
+TBD, ask Johnny. They were saying something about album revinue going to charity or the people who worked on the various tracks. To me it seems like most stuff is in the air, they were figuring stuff out as they went along, and if this github becomes official, there's a good chance this project leans full on open source free to access with any profits from donations, record sales, streaming services with ads, etc going back into the project directly with marketing or whatever.
 
 ## Contact
 
- I'm MuteMAR / Ru Baton / Neburtron, my email's [MuteMaroonWorm@Gmail.com](MuteMaroonWorm@Gmail.com), I'm the guy that had the gall to make an unofficial github page for this thing, no other authority or qualifications.
+ I'm MuteMAR / Ru Baton / Neburtron, my email's [MuteMaroonWorm@Gmail.com](mailto:MuteMaroonWorm@Gmail.com). I'm the guy that had the gall to make an unofficial github page for this thing, no other authority or qualifications.
