@@ -77,7 +77,7 @@ This project is under the Creative Commons Licenses (CC BY-NC 4.0), this GitHub 
 ## Contact
 
 Johnny Morrison (God King)
-To be Written
+ Hey everyone, my name is Joshua Morrison, director of Jonny Mozza's (pause) "Lessons in Confidence" and I am here to introduce you to our new email band. For the past few years I've been mostly doing music on my own, I struggled sometimes to find like minded people to make music with, and I can only imagine how it must be for people living out in the middle of nowhere. So this email band is a way of forming a community that any musician can access and have fun with, there are plenty of fellow musicians here to collaborate with or to become pen pals with. If you want to message me directly, send me an email at [officialmorrisonfilms@gmail.com](mailto:officialmorrisonfilms@gmail.com).
 
-Ru Baton (GitHub Maker and maintainer. Not the same person as Johnny)
+Ru Baton (GitHub Maker and maintainer)
  I'm MuteMAR / Ru Baton / Neburtron, my email's [MuteMaroonWorm@Gmail.com](mailto:MuteMaroonWorm@Gmail.com). I'm the guy that had the gall to make an unofficial github page for this thing, and I've been given the green light to remove the unofficial from the name.
