@@ -4,7 +4,7 @@ Welcome to the Email Band Public Folder! This repository contains music files fo
 
 This document tells you how to download the project folder onto your device, and how to add to the project. For info about the organization of this project folder, [click here](structure.md).
 
-The GitHub page is currently maintained by me, Ru Baton. Johnny Morrison is the mastermind behind this project, and the Discord Server is being led by ---.
+The GitHub page is currently maintained by me, Ru Baton. Johnny Morrison is the mastermind behind this project, and the Discord Server has been worked on by Lu and Unkempt.
 
 Things are currently being run through [this temporary subreddit](https://www.reddit.com/r/MorrisonProductions/)
 
