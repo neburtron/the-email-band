@@ -2,6 +2,8 @@
 
 Welcome to the Email Band Public Folder! This repository contains music files for this project anyone can play with and add to. I'm telling you right now, GitHub isn't hard to use, there's a web app, just look at how short the instructions are.
 
+Note: I have some priorities I need to juggle, This isn't setup how I'd like it yet. I'm going to look into the idea of having a github bot that automatically adds files that were added to the Discord here. Organized by what section it was uploaded to, who posted it, etc. That way you can just download all the files and play around with them when you want. I also want to look into making downloading easier, the GitHub is a WIP, keep that in mind, add stuff here if you like, if not I'll return to this in a few days and figure stuff out.
+
 This document tells you how to download the project folder onto your device, and how to add to the project. For info about the organization of this project folder, [click here](structure.md).
 
 The GitHub page is currently maintained by me, Ru Baton. Johnny Morrison is the mastermind behind this project, and the Discord Server has been worked on by Lu and Unkempt.
